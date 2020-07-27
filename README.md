@@ -5,5 +5,3 @@ I'm a registered pharmacist who wants to inspire healthcare professionals to lea
 I love talking about technologies like React and Gatsby.
 
 📫 Reach me via Twitter: [@kimberrypi](https://twitter.com/kimberrypi)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kimberrypi.kimberrypi)
